@@ -12,10 +12,10 @@ and a genuine curiosity for turning unknown into known.
 I work at the intersection of **data, business, and human behavior** — using analytics 
 to solve problems that actually matter to organizations. My focus areas:
 
-- 🏦 **Insurance & Risk Analytics** — predictive modeling, claims analysis, pricing
-- 📊 **Finance & Business Intelligence** — dashboards, regression, KPI reporting
-- 🏗️ **Real Estate & Infrastructure Analytics** — market analysis, cost modeling
-- 🔬 **Research & Qualitative Analysis** — Gioia methodology, interview coding
+-  **Insurance & Risk Analytics** — predictive modeling, claims analysis, pricing
+-  **Finance & Business Intelligence** — dashboards, regression, KPI reporting
+-  **Real Estate & Infrastructure Analytics** — market analysis, cost modeling
+-  **Research & Qualitative Analysis** — Gioia methodology, interview coding
 
 ---
 
