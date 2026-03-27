@@ -42,8 +42,8 @@ to solve problems that actually matter to organizations. My focus areas:
 ## 🎓 Education
 
 **MS, Business Analytics & Information Management** — University of Delaware (2026)  
-**MA, Psychology** — [Your university]  
-**B.Tech, Civil Engineering** — [Your university]
+**MA, Psychology**  
+**B.Tech, Civil Engineering** 
 
 ---
 
