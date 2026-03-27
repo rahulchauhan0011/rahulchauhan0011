@@ -3,7 +3,7 @@
 MS Business Analytics & Information Management candidate at the University of Delaware 
 (GPA 3.8, graduating May 2026), with a background that spans civil engineering, 
 psychology, and data analytics. I bring 4.5 years of real-world project experience 
-and a genuine curiosity for turning messy data into clear decisions.
+and a genuine curiosity for turning unknown into known.
 
 ---
 
