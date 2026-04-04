@@ -24,7 +24,7 @@ to solve problems that actually matter to organizations. My focus areas:
 **Languages:** Python, SQL, SAS  
 **Visualization:** Power BI, Excel  
 **Methods:** Machine Learning, Regression, Decision Trees, Naive Bayes, Monte Carlo Simulation, Data Cleaning  
-**Other:** NetLogo (Agent-Based Modeling), Jupyter Notebooks, GitHub
+**Other:** NetLogo (Agent-Based Modeling), Jupyter Notebooks, GitHub, Cursor, Vercel, InstantDB
 
 ---
 
