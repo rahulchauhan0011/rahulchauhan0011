@@ -1,13 +1,13 @@
-# Hi, I'm Rahul Chauhan 👋
+# Hi, I'm Rahul Chauhan 
 
-MS Business Analytics & Information Management candidate at the University of Delaware 
-(GPA 3.8, graduating May 2026), with a background that spans civil engineering, 
-psychology, and data analytics. I bring 4.5 years of real-world project experience 
-and a genuine curiosity for turning unknown into known.
+MS in Business Analytics & Information Management, University of Delaware 
+(GPA 3.8, graduated May 2026), with a background spanning civil engineering, 
+psychology, and data analytics. I bring 4.5 years of real-world project experience
+and a genuine curiosity for turning the unknown into the known.
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 I work at the intersection of **data, business, and human behavior** — using analytics 
 to solve problems that actually matter to organizations. My focus areas:
@@ -19,7 +19,7 @@ to solve problems that actually matter to organizations. My focus areas:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 **Languages:** Python, SQL, SAS  
 **Visualization:** Power BI, Excel  
@@ -28,7 +28,7 @@ to solve problems that actually matter to organizations. My focus areas:
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Tools | Description |
 |---|---|---|
@@ -39,7 +39,7 @@ to solve problems that actually matter to organizations. My focus areas:
 
 ---
 
-## 🎓 Education
+## Education
 
 **MS, Business Analytics & Information Management** — University of Delaware (2026)  
 **MA, Psychology**  
@@ -47,7 +47,7 @@ to solve problems that actually matter to organizations. My focus areas:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--chauhan--rc11-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rahul-chauhan-rc11)
 [![Email](https://img.shields.io/badge/Email-rahulrc@udel.edu-red?style=flat&logo=gmail)](mailto:rahulrc@udel.edu)
